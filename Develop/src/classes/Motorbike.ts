@@ -68,7 +68,7 @@ class Motorbike extends Vehicle {
           `Wheels: ${this.wheels[0].getDiameter} inches, ${this.wheels[0].getTireBrand}, ${this.wheels[1].getDiameter} inches, ${this.wheels[1].getTireBrand}`
         );
       }
-    }
+}
   
 
     // Export the Motorbike class as the default export
